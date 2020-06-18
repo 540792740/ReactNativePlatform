@@ -4,5 +4,6 @@
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/AwesomeProject" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/NativeProject" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/loginPage" vcs="Git" />
   </component>
 </project>

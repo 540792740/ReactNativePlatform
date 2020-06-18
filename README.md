@@ -9,3 +9,9 @@ Date: Jun 1st 2020
     1. npm install -g expo-cli
     2. expo init name_Project
 ```
+
+#### Navigation:
+```
+    1. npm install @react-navigation/native @react-navigation/stack
+    2. 
+```
